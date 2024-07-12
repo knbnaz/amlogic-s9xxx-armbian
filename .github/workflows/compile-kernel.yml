@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - codesnas
+          - knbnaz
       kernel_version:
         description: "Select kernel version"
         required: false
